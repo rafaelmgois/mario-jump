@@ -2,6 +2,8 @@
 
 Project completed 💹
 
+🎮 for play:  https://rafael-mario-jump.netlify.app/ 
+
 🔨 Made with:
 
 * JavaScript
